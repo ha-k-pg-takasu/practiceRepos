@@ -1,0 +1,12 @@
+*.pdb
+*.idb
+*.db-shm
+*.exe
+*.user
+*.filters
+*.tlog
+*.obj
+*.log
+*.lastbuildstate
+Hello world/.vs/
+Hello world/Debug/
